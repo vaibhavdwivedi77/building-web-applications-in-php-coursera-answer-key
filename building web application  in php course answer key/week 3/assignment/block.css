@@ -1,0 +1,49 @@
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+a:link{ 
+background-color:#0000AA;
+color:#ffffff;}
+a:visited{
+	color:#ffffff;}
+#one.boxed {
+	height:25%;width:25%;
+	padding: 5px; margin: 5px;
+  position:fixed;
+  bottom:0%; right:0%;
+    border-style:solid ;
+	border-width:5px;
+	border-color:blue;}
+#two.boxed {padding: 5px;
+  margin: 5px;
+   border-style:solid ;
+	border-width:5px;
+	border-color:green;
+	position:fixed;
+    height:25%;
+	width:25%;
+	top:0;
+	right:0%;}
+#three.boxed {padding: 5px;
+  margin: 5px;
+  position:fixed;
+  height:25%;width:25%;
+     border-style:solid ;
+	border-width:5px;border-color:orange;left:0;
+	top:0;}
+#four.boxed {padding: 5px;
+  margin: 5px;
+  position:fixed;
+  height:25%;width:25%;
+     border-style:solid ;
+	border-width:5px;
+	border-color:yellow;bottom:0%;left:0;
+}
+#link{ 
+	position:fixed;
+	top:0;
+	text-align:center;
+	left:0;
+	right:0;
+	bottom:0;}
+

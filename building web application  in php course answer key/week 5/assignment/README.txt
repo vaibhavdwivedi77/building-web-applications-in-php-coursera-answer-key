@@ -1,0 +1,1 @@
+open these files with the help of notepad++ and xampp in web browser and take screenshot to upload

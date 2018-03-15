@@ -1,0 +1,32 @@
+Q1.Which of the following is not a way to include CSS in an HTML page?
+ANS.Directly on an HTML tag using the style= attribute
+
+Q2.Which HTML tag does nothing to the text it surrounds and has as its
+sole purpose to create a "handle" so as to be able to apply CSS to the text?
+ANS. SPAN
+
+Q3.Why is there more than one font listed in the following CSS rule?
+ANS.They are listed in descending preference order if fonts are not 
+present in the browser.
+
+Q4.Which CSS selector controls how a link (anchor tag) looks while the 
+user mouses over the link (i.e. while hovering)?
+ANS.  HOVER
+
+Q5.Which of these CSS rules make text appear in a bold face font?
+ANS.font-weight: bold
+
+Q6.What CSS selector would style a tag that looks like this:
+ANS.    .puppy { ...
+
+Q7.What CSS rule allows you include a tag in markup but hide it from view in
+ the browser?
+ANS. visibility: hidden;
+
+
+Q8.Which of the following CSS selectors is between the content area and the
+ border? (CSS box model)
+ANS. padding
+
+Q9.What tag is used to import a style sheet into an HTML document?
+ANS. LINK

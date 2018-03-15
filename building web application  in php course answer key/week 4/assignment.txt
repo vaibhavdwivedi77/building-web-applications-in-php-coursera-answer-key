@@ -1,0 +1,14 @@
+
+install xampp and connect to local host then open localhost/phpmyadmin in web browser then take a screen shot
+
+
+
+for display errors: make one php file in notepad ++:
+Sourcecode ==>
+
+<?php
+
+phpinfo();
+
+?>
+
